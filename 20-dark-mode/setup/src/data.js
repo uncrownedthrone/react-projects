@@ -8,7 +8,7 @@ const articles = [
   },
   {
     id: 2,
-    title: 'goodby, clean code',
+    title: 'goodbye, clean code',
     date: new Date(2019, 10, 22),
     length: 5,
     snippet: `Let clean code guide you. Then let it go.`,
